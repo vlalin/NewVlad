@@ -10,6 +10,7 @@ namespace ConsoleAppVlad
     {
         static void Main(string[] args)
         {
+            int x = 213;
             Console.WriteLine("Chtoto pomenal");
         }
     }
